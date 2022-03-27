@@ -1,4 +1,4 @@
-from Ex115 import menu
+import menu
 
 def arquivoExiste(nome):
     try:
